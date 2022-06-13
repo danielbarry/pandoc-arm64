@@ -1,0 +1,12 @@
+**/*.deb
+**/*.gz
+**/*.tar.xz
+
+**/.BUILDINFO
+**/.MTREE
+**/.PKGINFO
+
+pandoc-citeproc
+copyright
+LICENSE
+debian-library
