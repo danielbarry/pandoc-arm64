@@ -1,7 +1,7 @@
 # Maintainer: codebreaker
 # Contributor: codebreaker
 pkgname=libpcre3
-pkgver=2_8.39
+pkgver=3_8.39
 pkgrel=1
 pkgdesc="Old Perl 5 Compatible Regular Expression Library - runtime files. This is a library of functions to support regular expressions whose syntax and semantics are as close as possible to those of the Perl 5 language. New packages should use the newer pcre2 packages, and existing packages should migrate to pcre2. This package contains the runtime libraries."
 arch=('aarch64')
